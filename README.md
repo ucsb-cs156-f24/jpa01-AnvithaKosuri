@@ -1,7 +1,4 @@
 # jpa01-AnvithaKosuri
-
-
-http://jpa01-anvithakosuri.dokku-13.cs.ucsb.edu/
   
 
 Deployed at: http://jpa01-anvithakosuri.dokku-13.cs.ucsb.edu/
